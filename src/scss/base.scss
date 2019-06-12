@@ -1,9 +1,16 @@
-// override bootstrap variables
-$primary: #4F286C;
+// import variable defs
+@import 'variables';
+
+// bootstrap customizations
+@import 'custom-bootstrap';
 
 // import bootstrap
 @import '~bootstrap/scss/bootstrap.scss';
 
+// import components
+// ...
+
+// any other style defs
 body {
     color: $primary;
 }
