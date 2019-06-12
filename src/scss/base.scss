@@ -1,0 +1,9 @@
+// override bootstrap variables
+$primary: #4F286C;
+
+// import bootstrap
+@import '~bootstrap/scss/bootstrap.scss';
+
+body {
+    color: $primary;
+}
