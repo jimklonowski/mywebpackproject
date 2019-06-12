@@ -1,7 +1,7 @@
 # mywebpackproject
 example webpack project
 
-Both naive.html and index.html display the same datatable, but index.html utilizes webpack to bundle up all of its resources, while naive.html manually manages the <link> and <script> tags for each dependent library.
+Both naive.html and index.html display the same datatable. `index.html` utilizes webpack to bundle up all of its resources, while `naive.html` manually manages the `<link>` and `<script>` tags for each dependency.
 
 ## Follow Along ##
 * Install [visual studio code](https://code.visualstudio.com/)
