@@ -1,0 +1,19 @@
+{
+  "name": "mywebpackproject",
+  "version": "1.0.0",
+  "description": "Test webpack4 project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimklonowski/mywebpackproject.git"
+  },
+  "author": "JCK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimklonowski/mywebpackproject/issues"
+  },
+  "homepage": "https://github.com/jimklonowski/mywebpackproject#readme"
+}
