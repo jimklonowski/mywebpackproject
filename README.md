@@ -23,7 +23,7 @@ npm install jquery bootstrap popper.js datatables.net datatables.net-bs4 datatab
 ```
 * Install necessary webpack loaders for handling css/scss, etc.
 ```
-npm install sass-loader style-loader css-loader postcss-loader autoprefixer mini-css-extract-plugin --save-dev
+npm install expose-loader sass-loader style-loader css-loader postcss-loader autoprefixer mini-css-extract-plugin --save-dev
 ```
 * Create webpack.config.js at project root
 ```
