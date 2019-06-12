@@ -180,3 +180,5 @@ $(function(){
   });
 });
 ```
+## Example
+![Example](https://raw.githubusercontent.com/jimklonowski/mywebpackproject/master/example.png)
