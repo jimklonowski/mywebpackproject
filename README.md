@@ -19,8 +19,7 @@ npm install webpack webpack-cli --save-dev
 ```
 * Install our needed libraries as dependencies
 ```
-npm install jquery bootstrap popper.js --save
-npm install datatables.net datatables.net-bs4 datatables.net-buttons datatables.net-buttons-bs4 --save
+npm install jquery bootstrap popper.js datatables.net datatables.net-bs4 datatables.net-buttons datatables.net-buttons-bs4 --save
 ```
 * Install necessary webpack loaders for handling css/scss, etc.
 ```
