@@ -181,3 +181,7 @@ $(function(){
 ```
 ## Example
 ![Example](https://raw.githubusercontent.com/jimklonowski/mywebpackproject/master/example.png)
+
+## Adding a library [sweetalert2](https://sweetalert2.github.io/)
+
+* `npm install sweetalert2`
