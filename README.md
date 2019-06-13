@@ -185,3 +185,5 @@ $(function(){
 ## Adding a library [sweetalert2](https://sweetalert2.github.io/)
 
 * `npm install sweetalert2`
+* Add `import Swal from 'sweetalert2';` to `app.js`
+* To allow Swal calls from HTML, expose the namespace to window after importing: `window.Swal = Swal`
